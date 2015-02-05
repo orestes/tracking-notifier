@@ -1,13 +1,9 @@
 {
   "name": "tracking-notifier",
   "version": "1.0.0",
-  "description": "Poll tracking services, notify via sms/push notification",
+  "description": "Poll parcel tracking services, notify via sms/push notification",
   "main": "check.js",
   "dependencies": {
-    "parse5": "^1.3.0",
-    "xmldom": "^0.1.19",
-    "xmlserializer": "^0.3.3",
-    "xpath": "^0.0.9"
   },
   "repository": {
     "type": "git",
